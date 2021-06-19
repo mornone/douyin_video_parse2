@@ -11,8 +11,8 @@
 修改`$origin_url_map`数组中的分享地址。
 
 ## 运行，两种方式
- 1 在当前目录下打开命令行，执行`php Douyin.php`命令。
- 2 http://xxx.com/Douyin.php
+- 在当前目录下打开命令行，执行`php Douyin.php`命令。
+- http://xxx.com/Douyin.php
  
 ## 视频保存
 程序会自动创建video目录，下载封面和视频到该目录下。
